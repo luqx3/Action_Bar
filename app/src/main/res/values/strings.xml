@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Action_Bar</string>
+    <string name="action_item1">action_item1</string>
+    <string name="action_item2">action_item2</string>
+    <string name="action_item3">action_item3</string>
+</resources>
