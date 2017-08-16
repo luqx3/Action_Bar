@@ -17,7 +17,7 @@
         </activity>
 
         <activity
-            android:name=".DisplayMessageActivity"
+            android:name=".SearchActivity"
             android:parentActivityName="com.example.hp.action_bar.MainActivity" >
             <!--  meta-data 用于支持 support 4.0 以及以下来指明上级活动 -->
             <meta-data

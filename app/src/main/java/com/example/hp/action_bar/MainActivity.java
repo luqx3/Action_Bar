@@ -30,7 +30,7 @@ public class MainActivity extends AppCompatActivity {
             case R.id.action_item1:
                 //click_func("action_item1");
                 Intent intent=new Intent();
-                intent.setClass(this,DisplayMessageActivity.class);
+                intent.setClass(this,SearchActivity.class);
                 startActivity(intent);
                 return true;
             case R.id.action_item2:
